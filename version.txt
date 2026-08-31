@@ -1,0 +1,6 @@
+FiskalniSkener.exe=20260525
+jq.exe=20240101
+numlock.exe=20240101
+sendmail.exe=20260602
+xidel.exe=20240101
+xml.exe=20240101
